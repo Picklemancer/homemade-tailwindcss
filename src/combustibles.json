@@ -1,0 +1,33 @@
+[
+  {
+    "label": "Gas",
+    "abbr": "GLP",
+    "key": "Precio Gases licuados del petróleo",
+    "avg": 6.5
+  },
+  { "label": "Diésel", "abbr": "GA", "key": "Precio Gasoleo A", "avg": 4.5 },
+  {
+    "label": "Diésel Premium",
+    "abbr": "GA+",
+    "key": "Precio Gasoleo Premium",
+    "avg": 4.5
+  },
+  {
+    "label": "Gasolina 95",
+    "abbr": "95",
+    "key": "Precio Gasolina 95 E5",
+    "avg": 6
+  },
+  {
+    "label": "Gasolina 95 +",
+    "abbr": "95+",
+    "key": "Precio Gasolina 95 E5 Premium",
+    "avg": 6
+  },
+  {
+    "label": "Gasolina 98",
+    "abbr": "98",
+    "key": "Precio Gasolina 98 E5",
+    "avg": 6
+  }
+]
